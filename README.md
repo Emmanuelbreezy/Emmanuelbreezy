@@ -72,3 +72,28 @@ Here's a list of all the technologies I have used. The ones I use the most are l
 
 <p>&nbsp;</p>
 
+## **Contact Me**
+
+If you want help reguarding something, feel free to reach out to me.
+
+<p>
+<a href="https://twitter.com/itsemmau_dev" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/twitter-circled--v1.png"/></a>&ensp;
+<a href="" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/hashnode.png"/></a>&ensp;
+<a href="mailto:emmabreezyumeh@gmail.com?body=Hey%20Emmanuel," target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/gmail--v1.png"/></a>&ensp;
+<a href="" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/fluency/48/null/instagram-new.png"/></a>&ensp;
+</p>
+
+<p>&nbsp;</p>
+
+<details>
+  <summary><h2>Github Stats</h2></summary>
+<!--   <p><img src="https://komarev.com/ghpvc/?username=Emmanuelbreezy&style=social"/>&ensp;</p>
+  <p><img src="https://img.shields.io/github/stars/Emmanuelbreezy?style=social"/>&ensp;<img src="https://img.shields.io/github/followers/Emmanuelbreezy?style=social"/></p> -->
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelbreezy&langs_count=10&layout=compact&theme=dark" alt="Emmanuelbreezy" /></p>
+<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Emmanuelbreezy&theme=dark&show_icons=true&locale=en" alt="Emmanuelbreezy" /></p> -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelbreezy&theme=dark" alt="Emmanuelbreezy" /></p>
+</details>
+
+<p>&nbsp;</p>
+
+
